@@ -1,18 +1,22 @@
-<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="treestrokes.github.io/today" resolutions="1x" timestamp="1476165448836">
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="treestrokes.github.io/today" resolutions="1x" timestamp="1476176091869">
   <folder name="images">
-    <file name="pasted image 1558x1370.jpg" crc="359795450" seo="true" ref="in-our-cities"/>
+    <file name="pasted image 1558x1370.jpg" crc="447059175" seo="true" ref="in-our-cities"/>
+    <file name="pasted image 1558x1370470x413.jpg" crc="4195270227" seo="true" ref="in-our-cities"/>
+    <file name="blank.gif" crc="4208392903" ref="in-our-cities:about"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="index.css" crc="3892082506" ref="index"/>
-    <file name="nomq_index.css" crc="209249998" ref="index"/>
-    <file name="master_a-master.css" crc="228478088" ref="in-our-cities:about:index"/>
+    <file name="index.css" crc="7711644" ref="index"/>
+    <file name="nomq_index.css" crc="62942883" ref="index"/>
+    <file name="master_a-master.css" crc="3772989212" ref="in-our-cities:about:index"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="in-our-cities:about:index"/>
-    <file name="in-our-cities.css" crc="104085145" ref="in-our-cities"/>
-    <file name="iefonts_in-our-cities.css" crc="3936059175" ref="in-our-cities"/>
-    <file name="about.css" crc="470087951" ref="about"/>
-    <file name="iefonts_about.css" crc="118955351" ref="about"/>
-    <file name="iefonts_index.css" crc="3936059175" ref="index"/>
+    <file name="in-our-cities.css" crc="125160401" ref="in-our-cities"/>
+    <file name="iefonts_in-our-cities.css" crc="3824530138" ref="in-our-cities"/>
+    <file name="about.css" crc="4089061889" ref="about"/>
+    <file name="iefonts_about.css" crc="3824530138" ref="about"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+    <file name="nomq_in-our-cities.css" crc="4177572074" ref="in-our-cities"/>
+    <file name="nomq_about.css" crc="101235810" ref="about"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="312386352" ref="index:in-our-cities:about"/>
@@ -20,12 +24,12 @@
     <file name="whatinput.js" crc="86476730" ref="index:in-our-cities:about"/>
     <file name="museconfig.js" crc="483509463" ref="index:in-our-cities:about"/>
     <file name="jquery.watch.js" crc="117772946" ref="index:in-our-cities:about"/>
-    <file name="jquery.museresponsive.js" crc="439107114" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="439107114" ref="index:in-our-cities:about"/>
     <file name="require.js" crc="228336483" ref="index:in-our-cities:about"/>
     <file name="jquery.musemenu.js" crc="3765356681" ref="index:in-our-cities:about"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:in-our-cities:about"/>
   </folder>
-  <file name="index.html" crc="113710845" seo="true" mt="1476163970930" redirect="true"/>
-  <file name="in-our-cities.html" crc="365108117" seo="true" mt="1476164648619" redirect="true"/>
-  <file name="about.html" crc="4140589539" seo="true" mt="1476163970930" redirect="true"/>
+  <file name="index.html" crc="3924458531" seo="true" mt="1476175531882" redirect="true"/>
+  <file name="in-our-cities.html" crc="251930749" seo="true" mt="1476176006143" redirect="true"/>
+  <file name="about.html" crc="4142455505" seo="true" mt="1476175905667" redirect="true"/>
 </manifest>
