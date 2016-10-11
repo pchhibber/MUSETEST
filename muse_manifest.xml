@@ -1,28 +1,29 @@
-<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="treestrokes.github.io/today" resolutions="1x" timestamp="1476186888599">
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="treestrokes.github.io/today" resolutions="1x" timestamp="1476195281802">
   <folder name="images">
-    <file name="pasted image 1558x1370.jpg" crc="447059175" seo="true" ref="index"/>
-    <file name="pasted image 1558x1370470x413.jpg" crc="4195270227" seo="true" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="about:when:index:what"/>
     <file name="pasted image 980x645.jpg" crc="402452932" seo="true" ref="when"/>
     <file name="pasted image 980x645477x314.jpg" crc="365550992" seo="true" ref="when"/>
     <file name="pasted image 980x6452.jpg" crc="40478151" seo="true" ref="what"/>
     <file name="pasted image 980x645-crop-u3342.jpg" crc="377603643" ref="what"/>
+    <file name="pasted image 1349x889-crop-u6597.jpg" crc="244367850" ref="index"/>
+    <file name="pasted image 1349x889-crop-u65972.jpg" crc="423288488" ref="index"/>
+    <file name="pasted image 980x645-crop-u33422.jpg" crc="377603643" ref="what"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="index.css" crc="420947784" ref="index"/>
-    <file name="nomq_index.css" crc="157433321" ref="index"/>
+    <file name="index.css" crc="529919182" ref="index"/>
+    <file name="nomq_index.css" crc="4294622892" ref="index"/>
     <file name="master_a-master.css" crc="3985430661" ref="about:index:what:when"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="about:index:what:when"/>
-    <file name="about.css" crc="3926594937" ref="about"/>
+    <file name="about.css" crc="140474343" ref="about"/>
     <file name="iefonts_about.css" crc="3824530138" ref="about"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
-    <file name="nomq_about.css" crc="507007359" ref="about"/>
-    <file name="what.css" crc="4289338736" ref="what"/>
-    <file name="nomq_what.css" crc="505496339" ref="what"/>
+    <file name="nomq_about.css" crc="237449807" ref="about"/>
+    <file name="what.css" crc="4180651644" ref="what"/>
+    <file name="nomq_what.css" crc="3770677680" ref="what"/>
     <file name="iefonts_what.css" crc="3824530138" ref="what"/>
-    <file name="when.css" crc="243055186" ref="when"/>
-    <file name="nomq_when.css" crc="3762857748" ref="when"/>
+    <file name="when.css" crc="3953329785" ref="when"/>
+    <file name="nomq_when.css" crc="3784366529" ref="when"/>
     <file name="iefonts_when.css" crc="3824530138" ref="when"/>
   </folder>
   <folder name="scripts">
@@ -36,8 +37,8 @@
     <file name="jquery.musemenu.js" crc="3765356681" ref="index:about:when:what"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:about:when:what"/>
   </folder>
-  <file name="index.html" crc="148079056" seo="true" mt="1476186442383" redirect="true"/>
-  <file name="about.html" crc="138414120" seo="true" mt="1476186442383" redirect="true"/>
-  <file name="when.html" crc="4080024985" seo="true" mt="1476186442383" redirect="true"/>
-  <file name="what.html" crc="351917144" seo="true" mt="1476186839596" redirect="true"/>
+  <file name="index.html" crc="4243774440" seo="true" mt="1476195260267" redirect="true"/>
+  <file name="about.html" crc="267064880" seo="true" mt="1476195260267" redirect="true"/>
+  <file name="when.html" crc="194378454" seo="true" mt="1476195260267" redirect="true"/>
+  <file name="what.html" crc="3984025755" seo="true" mt="1476195260267" redirect="true"/>
 </manifest>

@@ -7,6 +7,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://treestrokes.github.io/today/about.html</loc>
+    <lastmod>2016-10-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://treestrokes.github.io/today/when.html</loc>
     <lastmod>2016-10-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -19,37 +25,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://treestrokes.github.io/today/about.html</loc>
-    <lastmod>2016-10-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://treestrokes.github.io/today/images/pasted%20image%20980x645.jpg</loc>
     <lastmod>2016-10-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://treestrokes.github.io/today/images/pasted%20image%201558x1370470x413.jpg</loc>
+    <loc>http://treestrokes.github.io/today/images/pasted%20image%20980x6452.jpg</loc>
     <lastmod>2016-10-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://treestrokes.github.io/today/images/pasted%20image%20980x645477x314.jpg</loc>
-    <lastmod>2016-10-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://treestrokes.github.io/today/images/pasted%20image%201558x1370.jpg</loc>
-    <lastmod>2016-10-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://treestrokes.github.io/today/images/pasted%20image%20980x6452.jpg</loc>
     <lastmod>2016-10-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
