@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="treestrokes.github.io/today" resolutions="1x" timestamp="1476196039578">
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="treestrokes.github.io/today" resolutions="1x" timestamp="1476197237096">
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="about:when:index:what:who"/>
     <file name="pasted image 980x645.jpg" crc="402452932" seo="true" ref="when"/>
@@ -11,22 +11,22 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="index.css" crc="4115048777" ref="index"/>
-    <file name="nomq_index.css" crc="3806820998" ref="index"/>
+    <file name="index.css" crc="3999011928" ref="index"/>
+    <file name="nomq_index.css" crc="152900876" ref="index"/>
     <file name="master_a-master.css" crc="3929499864" ref="about:index:what:when:who"/>
     <file name="nomq_preview_master_a-master.css" crc="4202167256" ref="about:index:what:when:who"/>
-    <file name="about.css" crc="298029436" ref="about"/>
+    <file name="about.css" crc="4093305520" ref="about"/>
     <file name="iefonts_about.css" crc="3824530138" ref="about"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
-    <file name="nomq_about.css" crc="490813914" ref="about"/>
-    <file name="what.css" crc="497522896" ref="what"/>
-    <file name="nomq_what.css" crc="491889053" ref="what"/>
+    <file name="nomq_about.css" crc="3858179206" ref="about"/>
+    <file name="what.css" crc="4121938488" ref="what"/>
+    <file name="nomq_what.css" crc="439801203" ref="what"/>
     <file name="iefonts_what.css" crc="3824530138" ref="what"/>
-    <file name="when.css" crc="3804461980" ref="when"/>
-    <file name="nomq_when.css" crc="396540402" ref="when"/>
+    <file name="when.css" crc="501502247" ref="when"/>
+    <file name="nomq_when.css" crc="519163606" ref="when"/>
     <file name="iefonts_when.css" crc="3824530138" ref="when"/>
-    <file name="who.css" crc="324150056" ref="who"/>
-    <file name="nomq_who.css" crc="376195987" ref="who"/>
+    <file name="who.css" crc="4064214688" ref="who"/>
+    <file name="nomq_who.css" crc="43745732" ref="who"/>
     <file name="iefonts_who.css" crc="3824530138" ref="who"/>
   </folder>
   <folder name="scripts">
@@ -40,9 +40,9 @@
     <file name="jquery.musemenu.js" crc="3765356681" ref="index:about:when:what:who"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:about:when:what:who"/>
   </folder>
-  <file name="index.html" crc="4146492752" seo="true" mt="1476196002714" redirect="true"/>
-  <file name="about.html" crc="4287177367" seo="true" mt="1476196002714" redirect="true"/>
-  <file name="when.html" crc="449812579" seo="true" mt="1476196002714" redirect="true"/>
-  <file name="what.html" crc="236270465" seo="true" mt="1476196002714" redirect="true"/>
-  <file name="who.html" crc="4175494987" seo="true" mt="1476196002714" redirect="true"/>
+  <file name="index.html" crc="3806636505" seo="true" mt="1476197209273" redirect="true"/>
+  <file name="about.html" crc="3839309101" seo="true" mt="1476197209273" redirect="true"/>
+  <file name="when.html" crc="4181966791" seo="true" mt="1476197209273" redirect="true"/>
+  <file name="what.html" crc="22450845" seo="true" mt="1476197209273" redirect="true"/>
+  <file name="who.html" crc="513167647" seo="true" mt="1476197209273" redirect="true"/>
 </manifest>
