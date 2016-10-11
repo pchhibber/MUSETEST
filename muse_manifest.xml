@@ -1,17 +1,31 @@
-<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="TEST.COM" resolutions="1x" timestamp="1476024765710">
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="treestrokes.github.io/today" resolutions="1x" timestamp="1476165448836">
+  <folder name="images">
+    <file name="pasted image 1558x1370.jpg" crc="359795450" seo="true" ref="in-our-cities"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="index.css" crc="4044921783" ref="index"/>
-    <file name="nomq_index.css" crc="4146069185" ref="index"/>
+    <file name="index.css" crc="3892082506" ref="index"/>
+    <file name="nomq_index.css" crc="209249998" ref="index"/>
+    <file name="master_a-master.css" crc="228478088" ref="in-our-cities:about:index"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="in-our-cities:about:index"/>
+    <file name="in-our-cities.css" crc="104085145" ref="in-our-cities"/>
+    <file name="iefonts_in-our-cities.css" crc="3936059175" ref="in-our-cities"/>
+    <file name="about.css" crc="470087951" ref="about"/>
+    <file name="iefonts_about.css" crc="118955351" ref="about"/>
+    <file name="iefonts_index.css" crc="3936059175" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index"/>
-    <file name="museutils.js" crc="4155826306" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="483509463" ref="index"/>
-    <file name="jquery.watch.js" crc="117772946" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index:in-our-cities:about"/>
+    <file name="museutils.js" crc="4155826306" ref="index:in-our-cities:about"/>
+    <file name="whatinput.js" crc="86476730" ref="index:in-our-cities:about"/>
+    <file name="museconfig.js" crc="483509463" ref="index:in-our-cities:about"/>
+    <file name="jquery.watch.js" crc="117772946" ref="index:in-our-cities:about"/>
     <file name="jquery.museresponsive.js" crc="439107114" ref="index"/>
-    <file name="require.js" crc="228336483" ref="index"/>
+    <file name="require.js" crc="228336483" ref="index:in-our-cities:about"/>
+    <file name="jquery.musemenu.js" crc="3765356681" ref="index:in-our-cities:about"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:in-our-cities:about"/>
   </folder>
-  <file name="index.html" crc="3937374427" seo="true" mt="1476024733067" redirect="true"/>
+  <file name="index.html" crc="113710845" seo="true" mt="1476163970930" redirect="true"/>
+  <file name="in-our-cities.html" crc="365108117" seo="true" mt="1476164648619" redirect="true"/>
+  <file name="about.html" crc="4140589539" seo="true" mt="1476163970930" redirect="true"/>
 </manifest>
