@@ -1,32 +1,33 @@
-<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="treestrokes.github.io/today" resolutions="1x" timestamp="1476201935440">
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="treestrokes.github.io/today" resolutions="1x" timestamp="1476203718823">
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="about:when:index:what:who"/>
-    <file name="pasted image 980x645.jpg" crc="4014512957" seo="true" ref="when:who"/>
+    <file name="pasted image 980x645.jpg" crc="402452932" seo="true" ref="when"/>
     <file name="pasted image 980x645477x314.jpg" crc="365550992" seo="true" ref="when"/>
-    <file name="pasted image 980x6452.jpg" crc="40478151" seo="true" ref="what"/>
+    <file name="pasted image 980x6452.jpg" crc="4014512957" seo="true" ref="who"/>
     <file name="pasted image 980x645-crop-u3342.jpg" crc="377603643" ref="what"/>
     <file name="pasted image 1349x889-crop-u6597.jpg" crc="4196232081" ref="index"/>
     <file name="pasted image 1349x889-crop-u65972.jpg" crc="4087135302" ref="index"/>
     <file name="pasted image 980x645-crop-u33422.jpg" crc="377603643" ref="what"/>
     <file name="pasted image 980x645490x323.jpg" crc="364329182" seo="true" ref="who"/>
+    <file name="pasted image 980x645-crop-u33423.jpg" crc="3853671121" ref="what"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="index.css" crc="3999011928" ref="index"/>
+    <file name="index.css" crc="3817020527" ref="index"/>
     <file name="nomq_index.css" crc="152900876" ref="index"/>
-    <file name="master_a-master.css" crc="409576871" ref="about:index:what:when:who"/>
+    <file name="master_a-master.css" crc="3929499864" ref="about:index:what:when:who"/>
     <file name="nomq_preview_master_a-master.css" crc="4202167256" ref="about:index:what:when:who"/>
-    <file name="about.css" crc="4093305520" ref="about"/>
+    <file name="about.css" crc="4002765759" ref="about"/>
     <file name="iefonts_about.css" crc="3824530138" ref="about"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
     <file name="nomq_about.css" crc="3858179206" ref="about"/>
-    <file name="what.css" crc="4121938488" ref="what"/>
-    <file name="nomq_what.css" crc="439801203" ref="what"/>
+    <file name="what.css" crc="3911419690" ref="what"/>
+    <file name="nomq_what.css" crc="4266315847" ref="what"/>
     <file name="iefonts_what.css" crc="3824530138" ref="what"/>
-    <file name="when.css" crc="501502247" ref="when"/>
+    <file name="when.css" crc="490398682" ref="when"/>
     <file name="nomq_when.css" crc="519163606" ref="when"/>
     <file name="iefonts_when.css" crc="3824530138" ref="when"/>
-    <file name="who.css" crc="3790764003" ref="who"/>
+    <file name="who.css" crc="3775402560" ref="who"/>
     <file name="nomq_who.css" crc="3760513997" ref="who"/>
     <file name="iefonts_who.css" crc="3824530138" ref="who"/>
   </folder>
@@ -41,9 +42,9 @@
     <file name="jquery.musemenu.js" crc="3765356681" ref="index:about:when:what:who"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:about:when:what:who"/>
   </folder>
-  <file name="index.html" crc="3806636505" seo="true" mt="1476197209273" redirect="true"/>
-  <file name="about.html" crc="3839309101" seo="true" mt="1476197209273" redirect="true"/>
-  <file name="when.html" crc="4181966791" seo="true" mt="1476197209273" redirect="true"/>
-  <file name="what.html" crc="22450845" seo="true" mt="1476197209273" redirect="true"/>
-  <file name="who.html" crc="4019588325" seo="true" mt="1476201806597" redirect="true"/>
+  <file name="index.html" crc="72906345" seo="true" mt="1476203396840" redirect="true"/>
+  <file name="about.html" crc="4219244556" seo="true" mt="1476203396840" redirect="true"/>
+  <file name="when.html" crc="4114616945" seo="true" mt="1476203396840" redirect="true"/>
+  <file name="what.html" crc="478600849" seo="true" mt="1476203622320" redirect="true"/>
+  <file name="who.html" crc="417723805" seo="true" mt="1476203396840" redirect="true"/>
 </manifest>
